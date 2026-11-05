@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This repository (its text, reports, and index — see README.md for exceptions)
+is licensed under the Creative Commons Attribution 4.0 International License.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material, including
+    translation into other languages
+  for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to Anna Tchijova as the
+    author of the underlying research questions, prompts, and editorial
+    decisions, indicate the AI tools used to produce the text (see README.md),
+    provide a link to this license, and indicate if changes were made.
+
+No warranties are given. See the full legal text at the link above.
+
+---
+
+Exception: docs/velo.md is distributed under the Apache License 2.0, as
+stated in the document itself and in github.com/annatchijova/velo. That
+file is NOT covered by the CC BY 4.0 terms above — see the note at the top
+of docs/velo.md for its own license.
