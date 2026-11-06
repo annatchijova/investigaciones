@@ -6,7 +6,6 @@ Archivo personal de reportes de investigación generados con asistencia de IA, a
 
 ### 1. Teoría de grafos y entregas relacionadas
 
-- [Atlas de oportunidades: grafos, telemetría, sociología y DD.HH. para hackathones](<docs/01-teoria-de-grafos/Atlas de oportunidades grafos, telemetría, sociología y DD.HH. para hackathones.md>) ([PDF](<docs/01-teoria-de-grafos/Atlas de oportunidades grafos, telemetría, sociología y DD.HH. para hackathones.pdf>))
 - [Evaluación diagnóstica de teoría de grafos](<docs/01-teoria-de-grafos/Evaluación.md>) ([PDF](<docs/01-teoria-de-grafos/Evaluación.pdf>))
 - [Soluciones explicadas](<docs/01-teoria-de-grafos/Soluciones.md>) ([PDF](<docs/01-teoria-de-grafos/Soluciones.pdf>))
 - [Teoría de grafos — Volumen II: teoría intermedia y avanzada](<docs/01-teoria-de-grafos/Teoría de grafos — Volumen II Teoría intermedia y avanzada.md>) ([PDF](<docs/01-teoria-de-grafos/Teoría de grafos — Volumen II Teoría intermedia y avanzada.pdf>))
@@ -30,7 +29,6 @@ Archivo personal de reportes de investigación generados con asistencia de IA, a
 - [Teoría de juegos, Aristóteles, Kant, Foucault y Kerckhoffs](<docs/03-ciencias-sociales-y-agentes/Teoría de juegos, Aristóteles, Kant, Foucault y Kerckhoffs informe desde las Cie.md>) ([PDF](<docs/03-ciencias-sociales-y-agentes/Teoría de juegos, Aristóteles, Kant, Foucault y Kerckhoffs informe desde las Cie.pdf>))
 - [Utilitarismo, sensocentrismo y ética de la IA: ¿puede ampliarse el círculo moral?](<docs/03-ciencias-sociales-y-agentes/Utilitarismo, sensocentrismo y ética de la IA ¿puede ampliarse el círculo moral.md>) ([PDF](<docs/03-ciencias-sociales-y-agentes/Utilitarismo, sensocentrismo y ética de la IA ¿puede ampliarse el círculo moral.pdf>))
 - [Programa de investigación: autoridad, reputación y deferencia en jerarquías de agentes LLM](<docs/03-ciencias-sociales-y-agentes/Programa de investigación autoridad, reputación y deferencia en jerarquías de ag.md>) ([PDF](<docs/03-ciencias-sociales-y-agentes/Programa de investigación autoridad, reputación y deferencia en jerarquías de ag.pdf>))
-- [Por qué ganan (y pierden) los proyectos de hackathon](<docs/03-ciencias-sociales-y-agentes/Por qué ganan (y pierden) los proyectos de hackathon.md>) ([PDF](<docs/03-ciencias-sociales-y-agentes/Por qué ganan (y pierden) los proyectos de hackathon.pdf>))
 
 ### 4. Forense, procedencia y evidencia
 
